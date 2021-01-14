@@ -22,11 +22,11 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: nofood.jpg  # Name of image in `static/media/`.
-    #image_darken: 0.4
+    image_darken: 0.0
     image_size: cover
     image_position: center
     image_parallax: true
-    #text_color_light: true
+    # text_color_light: true
 advanced:
   css_style:
   css_class: fullscreen
